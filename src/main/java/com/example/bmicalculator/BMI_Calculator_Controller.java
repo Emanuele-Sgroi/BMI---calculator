@@ -2,11 +2,6 @@
 Name Project: BMI Calculator
 Author: Nunzio Emanuele Sgroi
 
-University of West London
-Student ID: 21508918
-Module: Programming
-Type: Assessment Task 2
-
 Description
 The Java code below runs a BMI Calculator application.
 The application asks the user to enter Weight(kg) and Height(m) and use a mathematical formula to generate an output.
